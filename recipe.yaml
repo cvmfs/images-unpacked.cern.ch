@@ -4,4 +4,6 @@ cvmfs_repo: 'unpacked.cern.ch'
 output_format: 'https://gitlab-registry.cern.ch/unpacked/sync/$(image)'
 input:
     - 'https://registry.hub.docker.com/library/centos:centos7'
+    - 'https://registry.hub.docker.com/library/engineren/ilcsoft:test'
+
 

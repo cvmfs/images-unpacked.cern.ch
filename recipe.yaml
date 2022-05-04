@@ -8,4 +8,5 @@ input:
     - 'https://registry.hub.docker.com/uegede/weather:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/htcondor-wn:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/wlcg-wn:latest'
+    - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/linc-wn:latest'
 

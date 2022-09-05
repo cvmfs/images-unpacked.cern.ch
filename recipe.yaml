@@ -3,6 +3,7 @@ user: cvmfsunpacker
 cvmfs_repo: 'unpacked.cern.ch'
 output_format: 'https://gitlab-registry.cern.ch/unpacked/sync/$(image)'
 input:
+    - 'https://registry.hub.docker.com/kostico2020/kstmm_beta:latest'
     - 'https://registry.hub.docker.com/library/centos:centos7'
     - 'https://registry.hub.docker.com/engineren/ilcsoft:test'
     - 'https://registry.hub.docker.com/uegede/weather:latest'

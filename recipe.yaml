@@ -8,6 +8,7 @@ input:
     - 'https://registry.hub.docker.com/uegede/weather:latest'
     - 'https://registry.hub.docker.com/ville761/af2:latest'
     - 'https://registry.hub.docker.com/dseitova/bars-image:v2'
+    - 'https://registry.hub.docker.com/yesw2000/ml_base:centos7-python38'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/htcondor-wn:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/wlcg-wn:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/linc-wn:latest'

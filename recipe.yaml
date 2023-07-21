@@ -30,5 +30,6 @@ input:
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/snakemake_arcane:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/snakemake-wn:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/caracal_container:latest'
+    - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/caracal_container_new_stimela:latest'
     - 'https://registry.hub.docker.com/augerobservatory/offline:latest'
     - 'https://registry.hub.docker.com/augerobservatory/augerdev:latest'

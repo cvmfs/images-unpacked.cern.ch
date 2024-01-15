@@ -39,3 +39,4 @@ input:
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/lqcd_analysis:latest'
     - 'https://registry.hub.docker.com/augerobservatory/offline:latest'
     - 'https://registry.hub.docker.com/augerobservatory/augerdev:latest'
+    - 'https://registry.hub.docker.com/ldmx/dev:latest'

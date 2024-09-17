@@ -42,5 +42,4 @@ input:
     - 'https://registry.hub.docker.com/augerobservatory/augerdev:latest'
     - 'https://registry.hub.docker.com/ligerlac/cicada:1.0-gpu'
     - 'https://registry.hub.docker.com/mzrdocker/openmpi_alpine:latest'
-    - 'https://ghcr.io/watonomous/actions-runner-image:main'
-    - 'https://ghcr.io/watonomous/actions-runner-image:pr-*'
+    - 'https://ghcr.io/watonomous/actions-runner-image:*'

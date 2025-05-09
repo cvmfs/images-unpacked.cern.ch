@@ -39,6 +39,7 @@ input:
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/lqcd_analysis:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/astro-ml:latest'
     - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/wlcg-wn:latest'
+    - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks/ddfacet:latest'
     - 'https://registry.hub.docker.com/ligerlac/cicada:1.0-gpu'
     - 'https://registry.hub.docker.com/mzrdocker/openmpi_alpine:latest'
     - 'https://ghcr.io/watonomous/actions-runner-image:*'

@@ -47,3 +47,4 @@ input:
     - 'https://registry.hub.docker.com/fastml/triton-torchgeo:22.07-py3-geometric'
     - 'https://nvcr.io/nvidia/tritonserver:24.11-py3'
     - 'https://registry.hub.docker.com/yongbinfeng/tritonserver:rhel8.9_v4'
+    - 'https://registry.hub.docker.com/vllm/vllm-openai:latest'

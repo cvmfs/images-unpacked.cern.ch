@@ -51,3 +51,4 @@ input:
     - 'https://registry.hub.docker.com/yongbinfeng/tritonserver:rhel8.9_v4'
     - 'https://registry.hub.docker.com/vllm/vllm-openai:latest'
     - 'https://registry.hub.docker.com/xlzdg3/xlzd_sandbox_offline_release:latest'
+    - 'https://ghcr.io/jopkass/danceq_docker_dev:main'

@@ -52,3 +52,4 @@ input:
     - 'https://registry.hub.docker.com/vllm/vllm-openai:latest'
     - 'https://registry.hub.docker.com/xlzdg3/xlzd_sandbox_offline_release:latest'
     - 'https://ghcr.io/jopkass/danceq_docker_dev:main'
+    - 'https://registry.hub.docker.com/sameriksen/eft_flamefit:latest'
